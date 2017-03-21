@@ -1,5 +1,5 @@
 Quads
-Simple puzzle game made with Godot
+Simple puzzle game made with Godot (https://godotengine.org/)
 
 Copyright 2016 kittenseater
 
